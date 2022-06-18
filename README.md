@@ -10,3 +10,11 @@
 8. **Set**
 9. **Dictionary**
 10. **Files (I/O)**
+
+
+Python Libraries
+
+1. **Numpy**
+2. **Pandas**
+3. **Matplotlib**
+4. **Seaborn**
